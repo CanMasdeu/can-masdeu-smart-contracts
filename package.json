@@ -1,0 +1,22 @@
+{
+  "name": "can-masdeu-smart-contracts",
+  "version": "1.0.0",
+  "description": "Smart Contracts for Decentralized Fractional Property Ownership",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "dao",
+    "smart",
+    "contract",
+    "fractional",
+    "ownership"
+  ],
+  "author": "Gustavo Guimaraes",
+  "license": "ISC"
+}
